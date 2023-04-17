@@ -6,7 +6,7 @@ This is a Python script that can be used to generate a wordlist from two .txt fi
 
 # Usage
 
-To use the script, simply run the wordlister.py script in your terminal, followed by the two filenames you wish to combine and the name of the output file. By default, the delimiter used to separate the words in the resulting wordlist is a space.
+To use the script, simply run the wordlister.py script in your terminal, followed by the two filenames you wish to combine and the name of the output file.
 
 ```
 ./wordlister.py input1.txt input2.txt output.txt
